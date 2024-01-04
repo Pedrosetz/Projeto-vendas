@@ -1,22 +1,43 @@
 #wrap{
-    border: yellow;
+    width: 100%;
 }
 header{
     font-family: auto;
-    background-color: lightblue;
+    background-color: blue;
     margin: auto;
-    border: 4px solid yellow;
+    border: 4px solid gray;
     font-size: 30px;
+    width: 1000px;
+}
+h1{
+    background-color: red;
+    color: aliceblue;
 }
 nav{
-    border: 4px solid yellow;
-    
+    margin: auto;
+    border: 4px solid gray;   
+    width: 1000px;
+}
+ul{
+    list-style: none;
+}
+header ul li{
+    display: inline-block;
+    text-decoration: underline;
+    font-size: 50px;
+    color: aliceblue;
 }
 body {
     max width: 1000px;
     max height: none;
-    border: 4px solid yellow;
+    }
+section{
+    margin: auto;
+    border: 4px solid gray;
+    width: 1000px;
 }
 footer{
-    border: 4px yellow;
+    margin: auto;
+    border: 4px solid gray;
+    width: 1000px;
 }
