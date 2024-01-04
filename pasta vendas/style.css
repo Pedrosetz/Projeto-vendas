@@ -1,0 +1,22 @@
+#wrap{
+    border: yellow;
+}
+header{
+    font-family: auto;
+    background-color: lightblue;
+    margin: auto;
+    border: 4px solid yellow;
+    font-size: 30px;
+}
+nav{
+    border: 4px solid yellow;
+    
+}
+body {
+    max width: 1000px;
+    max height: none;
+    border: 4px solid yellow;
+}
+footer{
+    border: 4px yellow;
+}
