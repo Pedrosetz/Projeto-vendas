@@ -35,7 +35,6 @@ body {
   height: 45px;
   outline: none;
   margin: 5px;
-  border-radius: 8px;
 }
 
 input::placeholder {
@@ -60,4 +59,8 @@ a {
   color: #5568FE;
   text-decoration: none;
   margin-left: 10px;
+}
+
+header {
+  background-color: aqua
 }
